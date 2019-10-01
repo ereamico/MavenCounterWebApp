@@ -1,3 +1,3 @@
 # MavenCounterWebApp
 MavenCounterWebApp
-Trigerring job by SCM polling again
+Trigerring job by SCM polling again!
